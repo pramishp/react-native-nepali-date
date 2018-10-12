@@ -7,7 +7,7 @@ Nepali-English Date conversion and Date Picker for Nepali React Native Developer
 This is available only for android.
 
 <p align="center">
-  <img width="300" height="550" src="https://raw.githubusercontent.com/pramishp/react-native-nepali-date/development/images/demo.jpg">
+  <img width="300" height="450" src="https://raw.githubusercontent.com/pramishp/react-native-nepali-date/development/images/demo.jpg">
 </p> 
 
 ## Getting started

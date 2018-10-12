@@ -1,6 +1,6 @@
 
 import { NativeModules } from 'react-native';
 
-const { RNNepaliDatePicker } = NativeModules;
+// const { NepaliDatePicker } = NativeModules;
 
-export default RNNepaliDatePicker;
+export default NativeModules.NepaliDatePicker;

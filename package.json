@@ -1,6 +1,6 @@
 {
   "name": "react-native-nepali-date",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "React Native Nepali date converter and date picker for android",
   "main": "index.js",
   "scripts": {

@@ -81,7 +81,7 @@ public class RNNepaliDatePickerModule extends ReactContextBaseJavaModule impleme
 
     @Override
     public String getName() {
-        return "NepaliCalender";
+        return "NepaliDatePicker";
     }
 
     @ReactMethod
