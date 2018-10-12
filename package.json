@@ -1,6 +1,6 @@
 {
   "name": "react-native-nepali-date",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Nepali date converter and date picker for android",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,14 @@
     "nepali-calender",
     "nepali-date",
     "nepali-date-picker",
-    "android"
+    "android",
+    "bikram-samwat-converter",
+    "datepicker",
+    "dateconvert",
+    "nepali-year",
+    "picker-conveter",
+    "nepalidateconverter",
+    "material"
   ],
   "homepage": "https://github.com/pramishp/react-native-nepali-date#readme",
   "author": "Pramish Paudel",

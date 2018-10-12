@@ -6,6 +6,8 @@ Nepali-English Date conversion and Date Picker for Nepali React Native Developer
 **Note**: This project uses `https://github.com/keyrunHORNET/date_picker_converter/`.
 This is available only for android.
 
+<img src="images/demo.jpg"/>
+
 ## Getting started
 
 `$ npm install react-native-nepali-date --save`
@@ -100,9 +102,9 @@ RNNepaliDate.getTodayNepaliDate(
              console.log(`${year}/${month}/${day} B.S.`)
          }
 
-      ```
+ ```
 
-    #### Use this method to invoke date picker
+ #### Use this method to invoke date picker
     ```javascript
    RNTNepaliCalender.showDatePicker({
               title: "", // title to display on top of date picker
