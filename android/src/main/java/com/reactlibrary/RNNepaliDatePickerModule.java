@@ -30,7 +30,7 @@ public class RNNepaliDatePickerModule extends ReactContextBaseJavaModule impleme
     private ReactApplicationContext reactContext;
 
 
-    public RNTNepaliCalenderManager(ReactApplicationContext reactContext) {
+    public RNNepaliDatePickerModule(ReactApplicationContext reactContext) {
         super(reactContext);
         this.reactContext = reactContext;
     }

@@ -15,7 +15,7 @@ public class RNNepaliDatePickerPackage implements ReactPackage{
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
-        modules.add(new RNTNepaliCalenderManager(reactContext));
+        modules.add(new RNNepaliDatePickerModule(reactContext));
         return modules;
     }
 
