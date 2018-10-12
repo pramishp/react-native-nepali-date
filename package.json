@@ -1,0 +1,29 @@
+{
+  "name": "react-native-nepali-date",
+  "version": "1.0.0",
+  "description": "React Native Nepali date converter and date picker for android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pramishp/react-native-nepali-date"
+  },
+  "keywords": [
+    "react-native",
+    "nepali-date-converter",
+    "bs",
+    "ad",
+    "nepali-calender",
+    "nepali-date",
+    "nepali-date-picker",
+    "android"
+  ],
+  "homepage": "https://github.com/pramishp/react-native-nepali-date#readme",
+  "author": "Pramish Paudel",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
